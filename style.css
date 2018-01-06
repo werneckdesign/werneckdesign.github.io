@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body {
+height: 100%;
+}
+
+body {
+    background-color: #143568;
+}
+
+.logo {
+    text-align: center;
+}
+.heading {
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    position: absolute;
+    top: 0px; bottom: 0px; right: 0px; left: 0px;
+}
+p {
+    font-family: 'Bellefair', serif;
+    font-size: 20pt;
+    color: white;
+}
+a {
+    font-family: 'Bellefair', serif;
+    font-size: 20pt;
+    color: white;
+    text-decoration: none;
+} 
